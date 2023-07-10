@@ -1,5 +1,5 @@
 
-https://github.com/umesh-sugara/Rolling-Dices/assets/73294581/bed7a3e2-725a-4004-a73f-0e47417928c5
+
 # Rolling-Dices
 This is a basic flutter application in which we are understanding the concepts of Images and TextButtons in Flutter. Two dices are flipped on click.
 
@@ -12,5 +12,9 @@ This is a basic flutter application in which we are understanding the concepts o
 
 
 ## Working of Application:
-  - Uploading WhatsApp Video 2023-07-10 at 9.07.17 PM.mp4…
+  - https://github.com/umesh-sugara/Rolling-Dices/assets/73294581/2913c384-7030-4551-81aa-66eaee96844c
+
+- https://github.com/umesh-sugara/Rolling-Dices/assets/73294581/bed7a3e2-725a-4004-a73f-0e47417928c5
+
+
 
